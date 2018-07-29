@@ -1,5 +1,5 @@
 # AI-algorithms
-This repo contains AI algorithm implementations for learning purpose. It is initially created for sorting the course work done in Uppsala University but may include other releated implementations in the future.
+This repo contains AI algorithms implemented for learning purpose. It is initially created for sorting the course projects done in Uppsala University but may include other releated implementations in the future.
 
 
 ## File descriptions
